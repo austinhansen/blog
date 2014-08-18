@@ -1,9 +1,9 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Austin Hansen
+description: "Blogging about Ruby, Rails, and web development"
+meta_description: "Austin Hansen, blogging about Ruby, Rails, and web development"
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 logo: false
 paginate: 15
 
